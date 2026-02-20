@@ -1,4 +1,6 @@
 # Library-Management
+# NAME:MAGENDRA SANJAY S
+# REG NO:212224040179
 ### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 ### PROBLEM STATEMENT:
@@ -22,6 +24,25 @@ In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 Star UML
 ### UML Diagrams:
+
+USECASE DIAGRAM:
+<img width="1188" height="966" alt="image" src="https://github.com/user-attachments/assets/7972b31c-90d4-4fce-9994-1e1a8b43020c" />
+
+CLASS DIAGRAM:
+<img width="1232" height="998" alt="image" src="https://github.com/user-attachments/assets/562b61da-a0af-43e8-babc-7921427c8e0a" />
+
+ACTIVITY DIAGRAM:
+<img width="925" height="968" alt="image" src="https://github.com/user-attachments/assets/b7e45a4a-1f71-4664-a192-41e38b046d22" />
+
+SEQUENCE DIAGRAM:
+<img width="1023" height="913" alt="image" src="https://github.com/user-attachments/assets/b5cc0b23-596f-4d34-a20f-ae9ba9a34696" />
+
+COMMUNICATION DIAGRAM:
+<img width="989" height="811" alt="image" src="https://github.com/user-attachments/assets/cf71981a-31d0-4803-aeef-be037c2f4655" />
+
+PACKAGE DIAGRAM:
+<img width="1199" height="854" alt="image" src="https://github.com/user-attachments/assets/4b1c3c83-e5a2-4117-9bbe-b7ae24ce389a" />
+
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
